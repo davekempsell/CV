@@ -27,7 +27,7 @@ _Women's Rowing - Assistant Coach_
 
 _Research Assistant_
 
-- Whilst completing a Masters degree in Sports Management, I assisted Professor Scott Jedlicka with his research into the use of major sports championships in 'sports washing'.
+- Whilst completing a Masters degree in Sports Management, I assisted Professor Scott Jedlicka with his research into International Sports Governance.
 
 ## Skills
 
