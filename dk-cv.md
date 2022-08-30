@@ -8,8 +8,8 @@ I have recently completed the 12 week Makers Academy Bootcamp, and am currently 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Final project - Loyal Bean**](https://github.com/davekempsell/bean-app.git)| A loyalty mobile app for indepedant coffee shops. We created two mobile apps, one for customers and one for shops, that communicated through a QR code and scanner. Both apps connected to a cloud hosted backend server to allow real time updates.  | MongoDB, Atlas, Node.js, Express, React Native, XCode, Android Studio |
-| [**Engineering Project - Tastebook**](https://github.com/davekempsell/tastebook.git) | A full stack web app, designed as a facebook clone that allows users to post their favourite recipes and interact with others through comments and likes | JavaScript, Node, Handlebars, CSS, Jest |
+| [**Makers Project - Loyal Bean**](https://github.com/davekempsell/bean-app.git)| A loyalty mobile app for independent coffee shops. We created two mobile apps, one for customers and one for shops, that communicated through a QR code and scanner. Both apps connected to a cloud hosted backend server to allow real time updates.  | MongoDB, Atlas, Node.js, Express, React Native, XCode, Android Studio |
+| [**Makers Project - Tastebook**](https://github.com/davekempsell/tastebook.git) | A full stack web app, designed as a facebook clone that allows users to post their favourite recipes and interact with others through comments and likes | JavaScript, Node, Express, Handlebars, CSS, Jest |
 | [**Tech test - Bank Account**](https://github.com/davekempsell/bank_account_tech_test.git) | An example technical test completed using a TDD process to build a basic 'bank account' app that takes deposits and withdrawals and displays transactions. Interaction with the app is through IRB | Ruby, RSpec |
 | [**Tech test - Gilded Rose**](https://github.com/davekempsell/gilded-rose-tech-test.git) | An example technical test completed using a TDD process. The test is focussed on refactoring code, and in particular utilising polymorphism to create the most elegant solution to the problem. | JavaScript, Jest |
 
@@ -18,12 +18,12 @@ I have recently completed the 12 week Makers Academy Bootcamp, and am currently 
 **Bedford Modern School** (Aug 2019 - May 2022)  
 _Senior Rowing Coach_
 
-- Whilst this role began as mostly delivering sports coaching, the advent of the pandemic in early 2020 led to the pastoral and leadership side of the position being hugely important. I was responsible for heading up coaching for the boys' side of a co-ed rowing program consisting of over 100 children aged 13-18. Working within the sports department of a large, independant day school, communication and planning was vital for delivering a successful program.
+- Whilst this role began as mostly delivering sports coaching, the advent of the pandemic in early 2020 led to the pastoral and leadership side of the position being hugely important. I was responsible for heading up coaching for the boys' side of a co-ed rowing program consisting of over 100 children aged 13-18. Working within the sports department of a large, independent day school, communication and planning was vital for delivering a successful program.
 
 **Washington State University** (Aug 2016 - June 2019)  
 _Women's Rowing - Assistant Coach_
 
-- Working in the Athletic Department of a PAC-12 school, this role comprised technical instruction, guidance, and support for a large multi-national team of athletes. I was also responsible for recruiting athletes from within the US, and around the world
+- Working in the Athletic Department of a PAC-12 school, this role comprised technical instruction, guidance, and support for a large multi-national team of athletes. I was also responsible for recruiting athletes from within the US, and around the world.
 
 _Research Assistant_
 
@@ -35,7 +35,7 @@ _Research Assistant_
 
 For our final group project at Makers, we wanted to make a mobile app, which required learning how to use new technologies as the course hadn't covered mobile apps. I spent a number of days looking up how to use React Native, following tutorials and creating an example app to understand the process. Within 10 days, we had learnt how to create two mobile apps using React Native that worked on members of the group's phones, completing a proof of concept prototype. 
 
-#### Communication
+#### Excellent Communication
 
 During the Tastebook group project at Makers, we faced challenges with varying levels of understanding and ability within the group. We discussed people's concerns with how they might be able to contribute effectively, and I worked with the group to develop processes that would allow us to balance our aims of creating a working app, and ensuring everyone in the group was involved. We used agile processes to create work tickets that had a variety of complexity and used different technologies so that every group member could complete items. We also paired on tasks and carried out regular code reviews to ensure group-wide understanding of the project. I led regular team stand ups and retros to allow on-going communication, and the team was not only able to produce an app which we were proud of, but did so in a way that everyone was happy with their time spent on the project, not just the outcome.
 
