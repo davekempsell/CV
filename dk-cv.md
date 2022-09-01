@@ -1,4 +1,7 @@
 ## Dave Kempsell
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-kempsell-207069179)
+&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davek87)
 
 I am a Junior software engineer with a background in elite sport as both an athlete and a coach. My unique experience in high performing teams has made the transition to working in agile development teams seemless. I’m a dedicated team player that holds myself and my team to exceptional standards. I’m constantly looking to push myself out of my comfort zone to learn something new.
 
@@ -102,4 +105,6 @@ I'm a keen cyclist, and my wife and I enjoy exploring new parts of the world on 
 I have recently taught myself how to make craft gin, and enjoy making new recipes and trying them out on willing friends and family.
 
 I love to learn, and enjoy reading on a variety of topics. I am currently teaching myself Python.
+
+
 
