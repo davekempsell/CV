@@ -101,3 +101,5 @@ I'm a keen cyclist, and my wife and I enjoy exploring new parts of the world on 
 
 I have recently taught myself how to make craft gin, and enjoy making new recipes and trying them out on willing friends and family.
 
+I love to learn, and enjoy reading on a variety of topics. I am currently teaching myself Python.
+
