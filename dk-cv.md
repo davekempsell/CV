@@ -3,7 +3,8 @@
 &nbsp;
 [![Codewars](https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/davek87)
 
-I am a Junior software engineer with a background in elite sport as both an athlete and a coach. My unique experience in high performing teams has made the transition to working in agile development teams seemless. I’m a dedicated team player that holds myself and my team to exceptional standards. I’m constantly looking to push myself out of my comfort zone to learn something new.
+
+I am a software engineer with a background in elite sport as both an athlete and a coach. My unique experience in high performing teams has made the transition to working in agile development teams seamless. I’m a dedicated team player that holds myself and my team to exceptional standards. I’m constantly looking to push myself out of my comfort zone to learn something new.
 
 
 ## Projects
@@ -22,7 +23,7 @@ I am a Junior software engineer with a background in elite sport as both an athl
 An intensive, 16 week software engineering bootcamp, where I developed the following skills:
 - **Object Oriented Programming** best practice, designing and building class based apps. Focus on concepts such as encapsulation, inheritence, and polymorphism.
 - **Test Driven Development**. Using a TDD process to design and build programs, including unit tests, and integration and feature tests.
-- **Agile practice** Our group projects involved regular stand-ups and retros, iterative development, using a Kanban board for organising tasks, and dividing projects into sprints.
+- **Agile practices** Our group projects involved regular stand-ups and retros, iterative development, using a Kanban board for organising tasks, and dividing projects into sprints.
 - **Pair Programming**. Working with a variety of people highlighted the importance of being adaptable to accomodate other people's learning and working styles.
 
 I used the following tech during the Makers course:
@@ -48,7 +49,7 @@ The course included a number of individual and group projects. For the final, tw
 ## Skills
 
 ### Determined
-I am driven to create the best outcome possible. My time competing as an athlete taught me the importance of seeing setbacks as learning opportunities, embracing challenges, and discovering that no task was insurmountable when approached with the right attitude. I worked to instill this mindset in the athletes I coached, and it has benefitted in my journey into software development. I have regularly set ambitious targets, and am undettered by needing to learn new technologies to get the job done.
+I am driven to create the best outcome possible. My time competing as an athlete taught me the importance of seeing setbacks as learning opportunities, embracing challenges, and discovering that no task was insurmountable when approached with the right attitude. I worked to instill this mindset in the athletes I coached, and it has benefitted me hugely in my journey into software development. I have regularly set ambitious targets, and am undettered by needing to learn new technologies to get the job done.
 
 #### Adaptable
 
@@ -67,7 +68,7 @@ I enjoy looking for solutions or improvements to current practices that can lead
 **Bedford Modern School** Bedford, UK (Aug 2019 - May 2022)  
 _Senior Rowing Coach_
 - Working with junior athletes requires high levels of communication, understanding their motivations and concerns, as well as being able to interpret behaviour when verbal communication isn't always forthcoming.
-- Setting high standards is vital for developing behaviours that would continue into their adult lives, as well as benefitting their performance as junior athletes.
+- Setting high standards is vital for developing behaviours that would continue into their adult lives, as well as benefiting their performance as junior athletes.
 
 **Washington State University** Pullman, WA, USA (Aug 2016 - June 2019)  
 _Women's Rowing - Assistant Coach_
