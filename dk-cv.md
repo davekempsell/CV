@@ -49,7 +49,7 @@ The course included a number of individual and group projects. For the final, tw
 ## Skills
 
 ### Determined
-I am driven to create the best outcome possible. My time competing as an athlete taught me the importance of seeing setbacks as learning opportunities, embracing challenges, and discovering that no task was insurmountable when approached with the right attitude. I worked to instill this mindset in the athletes I coached, and it has benefitted me hugely in my journey into software development. I have regularly set ambitious targets, and am undettered by needing to learn new technologies to get the job done.
+I am driven to create the best outcome possible. My time competing as an athlete taught me the importance of embracing a growth mindset; seeing setbacks as learning opportunities, embracing challenges, and discovering that no task was insurmountable when approached with the right attitude. I worked to instill this mindset in the athletes I coached, and it has benefitted me hugely in my journey into software development. I have regularly set ambitious targets, and am undettered by needing to learn new technologies to get the job done.
 
 #### Adaptable
 
