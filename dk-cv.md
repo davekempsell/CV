@@ -28,10 +28,10 @@ I used the following tech during the Makers course:
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Makers Project - Loyal Bean**](https://github.com/davekempsell/bean-app.git)| A loyalty mobile app for independent coffee shops. We created two mobile apps, one for customers and one for shops, that communicated through a QR code and scanner. Both apps connected to a cloud hosted backend server to allow real time updates.  | Node.js, MongoDB Atlas, Express, React Native, XCode, Android Studio, Jest |
+| [**Lexicon**](https://lexicon-by-dave.herokuapp.com/) | Lexicon is a single page React web app that's modelled on Wordle. It is an independant project I have built since finishing the Makers course, building on my React skills. It is hosted through Heroku | React, JavaScript, Express |
+| [**Makers Project - Loyal Bean**](https://github.com/davekempsell/bean-app.git)| A loyalty mobile app for independent coffee shops. We created two mobile apps, one for customers and one for shops, that communicated through a QR code and scanner. Both apps connected to a cloud hosted backend server to allow real time updates. [Watch Demo](https://youtu.be/J0zqN5dgz1s)  | Node.js, MongoDB Atlas, Express, React Native, XCode, Android Studio, Jest |
 | [**Makers Project - Tastebook**](https://github.com/davekempsell/tastebook.git) | A full stack web app, designed as a facebook clone that allows users to post their favourite recipes and interact with others through comments and likes | Node.js, MongoDB, Express, Handlebars, CSS, Jest, Cypress |
 | [**Mock tech test - Bank Account**](https://github.com/davekempsell/bank_account_tech_test.git) | An example technical test completed using a TDD process to build a basic 'bank account' simulator that takes deposits and withdrawals and displays transactions. Interaction with the app is through IRB | Ruby, RSpec |
-| [**Mock tech test - Gilded Rose**](https://github.com/davekempsell/gilded-rose-tech-test.git) | An example technical test completed using a TDD process. The test is focussed on refactoring code, and in particular utilising polymorphism to create the most elegant solution to the problem. | JavaScript, Jest |
 
 ## Skills
 
