@@ -108,7 +108,7 @@ I'm a keen cyclist, and my wife and I enjoy exploring new parts of the world on 
 
 I have recently taught myself how to make craft gin, and enjoy making new recipes and trying them out on willing friends and family.
 
-I love to learn, and enjoy reading on a variety of topics; such as history, politics, psychology, and others as well as fiction. I am currently spending time on a number of coding projects to develop my skills further, I am learning Python, and building a website for a family member's business.
+I love to learn, and enjoy reading on a variety of topics; such as history, politics, psychology, and others as well as fiction. I am currently spending time on a number of coding projects to develop my skills further, I am learning Java, and building a website for a family member's business.
 
 
 
